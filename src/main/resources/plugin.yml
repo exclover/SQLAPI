@@ -1,0 +1,7 @@
+name: SQLAPI
+version: '${project.version}'
+main: ex.mysql.sqlapi.sqlapi.SQLAPI
+api-version: 1.16
+prefix: SQLAPI
+authors: [ exclover ]
+description: a example plugin
